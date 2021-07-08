@@ -19,3 +19,5 @@ tornado==6.1
 ua-parser==0.10.0
 user-agents==2.2.0
 Werkzeug==2.0.1
+gunicorn
+certifi==2020.6.20
